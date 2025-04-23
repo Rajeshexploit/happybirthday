@@ -5,7 +5,7 @@ Demo
 Clone Repository
 
 # Clone this repository or download it
-$ git clone https://github.com/fajarghifar/happybirthday
+$ https://rajeshexploit.github.io/happybirthday/
 
 # Go into the repository
 $ cd happybirthday
